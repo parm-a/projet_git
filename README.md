@@ -1,10 +1,11 @@
 # Read me
 
 ## Apolline
-pages 9 et 10 /245
-de "Icy commencent [...]" au paragraphe "Des reliques que [...]" (inclus)
+pages 9 et 10 /245 : de "Icy commencent [...]" au paragraphe "Des reliques que [...]" (inclus)
 
 (lien page 9 : https://gallica.bnf.fr/ark:/12148/btv1b8600180x/f9.item )
+
+<br>
 
 ## Yaelle
 pages 11 et 12 /245
