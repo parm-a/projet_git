@@ -20,3 +20,22 @@ pages 13 et 14 /245 : de "rend point pzis [...]" au paragraphe "Coment les pers 
 ## Reda
 pages 15 et 16 /245 : de "Coment la tour fut [...]" au paragraphe "Comment en cette bataille [...]" (inclus)
 
+
+
+Répartition du travail pour le rendu : 
+
+## A.
+
+les difficultés rencontrées et un retour sur l’expérience (choix, défauts, échecs).
+
+## Yaelle
+une présentation des données sources,
+leur relation aux jeux existants de données (autres projets de HTR de la même période),
+
+
+## Chen
+les choix en termes d’ontologie, de transcription, etc
+
+## Reda
+
+Relecture du dossier et mise en page en Latex 
