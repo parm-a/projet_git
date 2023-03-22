@@ -24,7 +24,7 @@ pages 13 et 14 /245 : de "rend point pzis [...]" au paragraphe "Coment les pers 
 pages 15 et 16 /245 : de "Coment la tour fut [...]" au paragraphe "Comment en cette bataille [...]" (inclus)
 = pages 7 et 8 scriptorium
 
-
+<br>
 
 Répartition du travail pour le rendu : 
 
