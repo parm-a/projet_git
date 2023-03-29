@@ -19,6 +19,25 @@ pages 15 et 16 /245 : de "Coment la tour fut [...]" au paragraphe "Comment en ce
 
 <br>
 
+# Répartition du travail pour la relecture :
+
++2 pages
+donc :
+## A.
+pages 3 et 4
+
+## Yaelle
+pages 5 et 6
+
+## Chen
+pages 7 et 8
+
+## Reda
+pages 1 et 2
+
+
+<br>
+
 # Répartition du travail pour le rendu : 
 
 ## A.
