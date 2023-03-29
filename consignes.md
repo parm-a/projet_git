@@ -6,4 +6,4 @@
 - les 2 lettres qu'on garde de leur alphabet : ꝺ et ʒ. Tout le reste est l'alphabet latin.
 - le petit zigouigoui veut dire "et" : on utilise cette lettre ⁊
 - les points rouges qui ne veulent rien dire en debut de ligne ne seront pas pris en compte
-- pour les numeros : on compte le nombre de jambe et on note autant de i
+- pour les numeros : on compte le nombre de jambe et on note autant de i et pour le e en exposant on le met en normal
