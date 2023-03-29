@@ -8,3 +8,4 @@
 - les points rouges qui ne veulent rien dire en debut de ligne ne seront pas pris en compte
 - pour les numeros : on compte le nombre de jambe et on note autant de i et pour le e en exposant on le met en normal
 - on ne rajoute pas d'espace a droite et gauche des "/", idem pour les "."
+- on transforme les g bizarre en g normaux
