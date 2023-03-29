@@ -1,0 +1,49 @@
+{
+    "version": "0.1",
+    "name": "git",
+    "author": "",
+    "characters": [
+        {
+            "row": 0,
+            "column": 1,
+            "character": "ʒ",
+            "keyboard_code": 122
+        },
+        {
+            "row": 0,
+            "column": 0,
+            "character": "ꝺ",
+            "keyboard_code": 100
+        },
+        {
+            "row": 0,
+            "column": 2,
+            "character": "ō"
+        },
+        {
+            "row": 1,
+            "column": 0,
+            "character": "í"
+        },
+        {
+            "row": 1,
+            "column": 1,
+            "character": "ē"
+        },
+        {
+            "row": 1,
+            "column": 2,
+            "character": "ꝑ"
+        },
+        {
+            "row": 1,
+            "column": 3,
+            "character": "ā"
+        },
+        {
+            "row": 0,
+            "column": 3,
+            "character": "⁊"
+        }
+    ]
+}
