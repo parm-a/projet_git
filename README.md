@@ -36,10 +36,4 @@ Relecture du dossier et mise en page en Latex (ou ODT)
 
 <br>
 
-# Consignes de transcription :
-- ne pas distingues i et j (ecrire i), u et v (ecrire u)
-- ne pas noter les accents sur les voyelles (ne pas ecrire plus de consonnes non plus)
-- ecrire s a la place de ſ
-- les 2 lettres qu'on garde de leur alphabet : ꝺ et ʒ. Tout le reste est l'alphabet latin.
-- le petit zigouigoui veut dire "et"
 
